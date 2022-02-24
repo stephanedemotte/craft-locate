@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
 
-## Unreleased
+## 2.2.0 - 2022-02-24
 - Fixed Composer 2 compatibility
 - Compatibility PHP 8 and PHP 8.1
 - Fixed compatibility with Craft > 3.5 @jasperboot
