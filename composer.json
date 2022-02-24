@@ -24,10 +24,14 @@
         {
             "name": "Isaac Gray",
             "homepage": "https://www.vaersaagod.no/"
+        },
+        {
+            "name": "Len van Essen",
+            "homepage": "https://wndr.digital/"
         }
     ],
     "require": {
-        "php": "^7.0",
+        "php": "^7.0|^8.0|^8.1",
         "craftcms/cms": "^3.0.0-RC1"
     },
     "autoload": {

@@ -6,7 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 
 ## Unreleased
 - Fixed Composer 2 compatibility
-- 
+- Compatibility PHP 8 and PHP 8.1
+
 ## 2.1.1 - 2019-02-27
 ### Fixed
 - Bug where place data with emojis would prevent saving of field
