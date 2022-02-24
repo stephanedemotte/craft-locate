@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 - Fixed Composer 2 compatibility
 - Compatibility PHP 8 and PHP 8.1
 - Fixed compatibility with Craft > 3.5 @jasperboot
+
 ## 2.1.1 - 2019-02-27
 ### Fixed
 - Bug where place data with emojis would prevent saving of field

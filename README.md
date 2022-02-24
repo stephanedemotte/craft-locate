@@ -2,6 +2,8 @@
 
 Harness the power of the [Google Autocomplete API](https://developers.google.com/maps/documentation/javascript/places-autocomplete) inside Craft. Adds an autocomplete search box to Craft entries which allows place and address queries to be made to the API. Populates a hidden **Location** field with `lat`, `lng`, `location`, and `placeid` which you can grab in your templates to do with as you wish.
 
+# A note about the original author
+The original plug-in was developed by Isaac Gray, but it hasn't been updated since 2019 at the point where I decided to fork the repository to ensure compatibility with future versions of Craft.
 
 ## Requirements
 
