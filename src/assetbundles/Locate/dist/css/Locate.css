@@ -1,0 +1,42 @@
+/**
+ * Locate plugin for Craft CMS
+ *
+ * Locate CSS
+ *
+ * @author    Isaac Gray
+ * @copyright Copyright (c) 2018 Isaac Gray
+ * @link      https://www.vaersaagod.no/
+ * @package   Locate
+ * @since     2.0.0
+ */
+
+.swixpop-locate .locate-warn {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: red;
+}
+
+.swixpop-locate .instructions {
+    max-width: 700px;
+}
+
+.swixpop-locate code {
+    max-width: 800px;
+    padding: 20px;
+    display: block;
+    background-color: rgba(0,0,0,0.04);
+    border-radius: 3px;
+}
+
+.swixpop-locate .code-comment {
+    display: block;
+    color: #999;
+    margin-bottom: 10px;
+}
+.swixpop-locate .code-break {
+    display: block;
+}
+
+.swixpop-locate .-l1 {
+    margin-left: 20px;
+}
