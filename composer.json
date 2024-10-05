@@ -32,7 +32,7 @@
     ],
     "require": {
         "php": "^7.0|^8.0|^8.1",
-        "craftcms/cms": "^3.0.0-RC1"
+        "craftcms/cms": "^4.0.0-RC1"
     },
     "autoload": {
         "psr-4": {
